@@ -2,11 +2,17 @@ import { Link, Route, Routes } from 'react-router-dom'
 import DisenoUno from './pages/DisenoUno'
 import DisenoDos from './pages/DisenoDos'
 import DisenoTres from './pages/DisenoTres'
+import PathIntlHome from './path-intl/PathIntlHome'
 
 const proposals = [
   { path: '/diseno-1', label: 'Propuesta 1 — Premium', description: 'Minimalista · tonos hueso y arena' },
   { path: '/diseno-2', label: 'Propuesta 2 — Corporativo', description: 'Azules profundos · grids y credibilidad' },
   { path: '/diseno-3', label: 'Propuesta 3 — Audaz', description: 'Modo oscuro · layout asimétrico' },
+  {
+    path: '/path-intl',
+    label: 'Nutrición & Coherencia — Landing',
+    description: 'Estructura institucional adaptada · contenido en español',
+  },
 ] as const
 
 function Home() {
@@ -48,6 +54,7 @@ export default function App() {
       <Route path="/diseno-1" element={<DisenoUno />} />
       <Route path="/diseno-2" element={<DisenoDos />} />
       <Route path="/diseno-3" element={<DisenoTres />} />
+      <Route path="/path-intl" element={<PathIntlHome />} />
     </Routes>
   )
 }
