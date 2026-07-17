@@ -69,7 +69,7 @@ const es = {
       p2: 'Guiada por el deseo de unificar la salud clínica con mi pasión por los caballos, me formé en la Asociación Argentina de Equinoterapia. Junto a mi mentora Hilda Castelli (certificada por el Instituto HeartMath), co-desarrollamos un modelo de autorregulación emocional diseñado para tratar la raíz fisiológica de la conducta alimentaria desadaptativa en pacientes con TCA y TDAH.',
     },
     cta: 'Conoce mi trayectoria',
-    imageAlt: 'Sesión terapéutica con caballos y acompañamiento profesional',
+    imageAlt: 'Retrato profesional de Francisca Pino Vielma',
   },
   recursos: {
     eyebrow: 'Autorregulación emocional',
@@ -251,7 +251,7 @@ const en: typeof es = {
       p2: 'Driven by the desire to unite clinical health with my passion for horses, I trained at the Argentine Association of Equine Therapy. Together with my mentor Hilda Castelli (certified by the HeartMath Institute), we co-developed an emotional self-regulation model designed to address the physiological root of maladaptive eating behaviour in patients with eating disorders and ADHD.',
     },
     cta: 'Discover my journey',
-    imageAlt: 'Therapeutic session with horses and professional accompaniment',
+    imageAlt: 'Professional portrait of Francisca Pino Vielma',
   },
   recursos: {
     eyebrow: 'Emotional self-regulation',
@@ -433,7 +433,7 @@ const pt: typeof es = {
       p2: 'Guiada pelo desejo de unir a saúde clínica à minha paixão pelos cavalos, formei-me na Associação Argentina de Equinoterapia. Junto à minha mentora Hilda Castelli (certificada pelo Instituto HeartMath), co-desenvolvemos um modelo de autorregulação emocional pensado para tratar a raiz fisiológica do comportamento alimentar desadaptativo em pacientes com TCA e TDAH.',
     },
     cta: 'Conheça a minha trajetória',
-    imageAlt: 'Sessão terapêutica com cavalos e acompanhamento profissional',
+    imageAlt: 'Retrato profissional de Francisca Pino Vielma',
   },
   recursos: {
     eyebrow: 'Autorregulação emocional',
@@ -615,7 +615,7 @@ const fr: typeof es = {
       p2: 'Guidée par le désir d’unir la santé clinique à ma passion pour les chevaux, je me suis formée à l’Association Argentine d’Équinothérapie. Avec ma mentore Hilda Castelli (certifiée par l’Institut HeartMath), nous avons co-développé un modèle d’autorégulation émotionnelle destiné à traiter la racine physiologique des comportements alimentaires inadaptés chez les patients atteints de TCA et de TDAH.',
     },
     cta: 'Découvrir mon parcours',
-    imageAlt: 'Séance thérapeutique avec des chevaux et accompagnement professionnel',
+    imageAlt: 'Portrait professionnel de Francisca Pino Vielma',
   },
   recursos: {
     eyebrow: 'Autorégulation émotionnelle',
@@ -797,7 +797,7 @@ const de: typeof es = {
       p2: 'Geleitet vom Wunsch, klinische Gesundheit mit meiner Leidenschaft für Pferde zu verbinden, habe ich mich bei der Argentinischen Vereinigung für Equine Therapie ausgebildet. Gemeinsam mit meiner Mentorin Hilda Castelli (zertifiziert vom HeartMath Institute) haben wir ein Modell emotionaler Selbstregulation entwickelt, das die physiologische Wurzel maladaptiven Essverhaltens bei Patientinnen und Patienten mit Essstörungen und ADHS adressiert.',
     },
     cta: 'Meinen Werdegang entdecken',
-    imageAlt: 'Therapeutische Sitzung mit Pferden und professioneller Begleitung',
+    imageAlt: 'Professionelles Porträt von Francisca Pino Vielma',
   },
   recursos: {
     eyebrow: 'Emotionale Selbstregulation',
@@ -979,7 +979,7 @@ const it: typeof es = {
       p2: 'Guidata dal desiderio di unire la salute clinica alla mia passione per i cavalli, mi sono formata presso l’Associazione Argentina di Equinoterapia. Insieme alla mia mentore Hilda Castelli (certificata dall’Istituto HeartMath), abbiamo co-sviluppato un modello di autoregolazione emotiva pensato per trattare la radice fisiologica del comportamento alimentare disadattivo in pazienti con disturbi alimentari e ADHD.',
     },
     cta: 'Scopri il mio percorso',
-    imageAlt: 'Sessione terapeutica con cavalli e accompagnamento professionale',
+    imageAlt: 'Ritratto professionale di Francisca Pino Vielma',
   },
   recursos: {
     eyebrow: 'Autoregolazione emotiva',
